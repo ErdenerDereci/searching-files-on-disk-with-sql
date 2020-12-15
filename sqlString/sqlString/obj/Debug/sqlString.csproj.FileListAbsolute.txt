@@ -1,0 +1,7 @@
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.exe.config
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.exe
+D:\VsProjects\sqlString\sqlString\bin\Debug\sqlString.pdb
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.csprojAssemblyReference.cache
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.csproj.CoreCompileInputs.cache
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.exe
+D:\VsProjects\sqlString\sqlString\obj\Debug\sqlString.pdb
